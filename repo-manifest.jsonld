@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/bpython/bpython/commit/4a21ac03d0474321ef6a760ecbf754352829bdb0",
       "git:hexsha": "4a21ac03d0474321ef6a760ecbf754352829bdb0",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T13:20:41.776741+00:00"
     },
     {
       "@id": "https://repolex.ai/r/bpython/bpython/commit/63f32b41ecd6a6b6702b5fba53d284ae71a30382",
